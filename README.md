@@ -1,4 +1,5 @@
-# lung-cancer-prediction
+# Lung-cancer-prediction-using-Deep-Learning
+
 An end-to-end Machine Learning Project to detect if someone has Lung Cancer or not. This project utilises lung CT scans medical data of patients and predicts whether a person has lung cancer or not.
 ![image](https://github.com/pranavvb03/lung-cancer-prediction/assets/139568635/361b68c2-e4ec-4cf3-a40e-3cc66dad37c2)
 
